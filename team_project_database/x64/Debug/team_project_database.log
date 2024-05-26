@@ -1,0 +1,19 @@
+﻿  table_read.cpp
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1698,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1725,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1752,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1779,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1806,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+G:\Учеба\1 курс КНМО\C++\team_project_database\sourses\table_read.cpp(1833,25): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  team_project_database.cpp
+  Создание кода...
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<store_t>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<products_t>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<maker_t>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<accounting_prodict_t>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<workers_t>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<merge_table_spa>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<merge_table_sa>::operator[]: значение возвращается не при всех путях выполнения
+G:\Учеба\1 курс КНМО\C++\team_project_database\headers\list_func.h(104,1): warning C4715: List<merge_table_pa>::operator[]: значение возвращается не при всех путях выполнения
+  team_project_database.vcxproj -> G:\Учеба\1 курс КНМО\C++\team_project_database\x64\Debug\team_project_database.exe
